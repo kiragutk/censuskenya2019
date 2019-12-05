@@ -1,0 +1,2 @@
+# censuskenya2019
+Visualization of initial summary release of the 2019 Kenya Population and  Census Results.
